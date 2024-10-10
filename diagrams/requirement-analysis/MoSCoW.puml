@@ -1,0 +1,42 @@
+@startuml
+skinparam rectangle {
+    roundCorner 25
+}
+
+rectangle "MoSCoW Prioritization for FinanceFlow App" as A #FFCCFF {
+    rectangle "Must Have" as B #CCCCFF {
+        rectangle "Secure user authentication" as B1
+        rectangle "Basic account management" as B2
+        rectangle "Money transfer functionality" as B3
+        rectangle "Compliance with financial regulations" as B4
+    }
+    rectangle "Should Have" as C #DDDDFF {
+        rectangle "Bill payment feature" as C1
+        rectangle "Savings goals tracker" as C2
+        rectangle "Push notifications for transactions" as C3
+    }
+    rectangle "Could Have" as D #FFFFDD {
+        rectangle "Integration with budgeting tools" as D1
+        rectangle "Chatbot for customer support" as D2
+        rectangle "Cryptocurrency exchange" as D3
+    }
+    rectangle "Won't Have (this release)" as E #FFDDDD {
+        rectangle "Investment portfolio management" as E1
+        rectangle "International money transfers" as E2
+        rectangle "Loyalty rewards program" as E3
+    }
+}
+
+A -down-> B
+A -down-> C
+A -down-> D
+A -down-> E
+
+note right of A
+    📊 MoSCoW Method Overview
+    "M - Must Have: These are non-negotiable. Without these, we fail."
+    "S - Should Have: Important, but not critical for launch."
+    "C - Could Have: Nice-to-haves if time permits."
+    "W - Won't Have: Not for this version, but maybe later."
+end note
+@enduml

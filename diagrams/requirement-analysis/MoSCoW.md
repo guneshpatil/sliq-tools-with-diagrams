@@ -46,19 +46,19 @@ The room fell silent as the team absorbed the simplicity and power of the MoSCoW
 "Basic account management and money transfers are the core of what we do," added Alex, the lead developer.<br>
 "And we must be compliant with financial regulations," Maria reminded everyone.
 
-## Should Have:
+### Should Have:
 
 "Bill payments would be a huge value-add," suggested Raj from the AI team.<br>
 "A savings goals tracker could set us apart," mused the UX designer.<br>
 "Push notifications for transactions?" someone called out. "Definitely a should have."
 
-## Could Have:
+### Could Have:
 
 "Integration with budgeting tools would be nice," Sarah noted.<br>
 "What about that AI chatbot for customer support, Raj?"<br>
 "Cryptocurrency exchange?" someone ventured. After some debate, it landed in the "Could Have" category.
 
-## Won't Have (this release):
+### Won't Have (this release):
 
 "Investment portfolio management is too complex for v1," Sarah decided.<br>
 "International money transfers can wait," agreed the team.<br>

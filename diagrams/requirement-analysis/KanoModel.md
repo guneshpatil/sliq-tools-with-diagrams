@@ -11,13 +11,13 @@ quadrantChart
     "Cutting-edge technology (Wow factor)": [0.8, 0.9]
     "Premium quality (Excellence)": [0.7, 0.7]
     "Customization options (Flexibility)": [0.6, 0.6]
-    "Ease of use (User-friendly)": [0.5, 0.5]
+    "Ease of use (User-friendly)": [0.5, 0.45]
     "Reliability (Dependable)": [0.2, 0.3]
     "Basic functionality (Essential)": [0.1, 0.2]
-    "Industry standard feature (Expected)": [0.3, 0.4]
-    "Aesthetic design (Attractive)": [0.4, 0.5]
-    "Extra accessories (Nice-to-have)": [0.5, 0.3]
-    "Trendy addition (Fashionable)": [0.7, 0.4]
+    "Industry standard feature (Expected)": [0.25, 0.4]
+    "Aesthetic design (Attractive)": [0.35, 0.55]
+    "Extra accessories (Nice-to-have)": [0.5, 0.2]
+    "Trendy addition (Fashionable)": [0.75, 0.4]
 ```
 # 🗼
 The bustling streets of Tokyo faded into the background as Akira Tanaka, lead product manager at NexGen Software, stepped into the company's sleek conference room. The team had gathered for a crucial meeting to prioritize features for their revolutionary project management software.

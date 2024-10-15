@@ -30,7 +30,8 @@ In the heart of Silicon Valley, the FinanceFlow team gathered around a large whi
 "Alright team," she began, her voice steady, "we're about to revolutionize mobile banking, but we can't do everything at once. We need to prioritize."
 
 Sarah drew four large boxes on the board, labeling them as she spoke:
->[!IMPORTANT] MoSCoW Method Overview <br>
+>[!IMPORTANT] 
+> MoSCoW Method Overview <br>
 > M - Must Have: These are non-negotiable. Without these, we fail.<br>
 > S - Should Have: Important, but not critical for launch.<br>
 > C - Could Have: Nice-to-haves if time permits.<br>

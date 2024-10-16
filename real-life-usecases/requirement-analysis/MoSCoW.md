@@ -1,30 +1,3 @@
-```mermaid
-graph TD
-    A[MoSCoW Prioritization] --> B[Must Have]
-    A --> C[Should Have]
-    A --> D[Could Have]
-    A --> E[Won't Have]
-
-    B --> B1[Critical for success]
-    B --> B2[Legal requirements]
-    B --> B3[Core functionality]
-
-    C --> C1[Important but not vital]
-    C --> C2[Adds significant value]
-
-    D --> D1[Nice to have features]
-    D --> D2[Time permitting]
-
-    E --> E1[Agreed to be excluded]
-    E --> E2[May be considered for future]
-
-    style A stroke:#333,stroke-width:4px
-    style B fill:#F9E796,stroke:#333,stroke-width:2px,color:black
-    style C fill:#C6F5D3,stroke:#333,stroke-width:2px,color:black
-    style D fill:#C4E5F9,stroke:#333,stroke-width:2px,color:black
-    style E fill:#FEFFFF,stroke:#333,stroke-width:2px,color:black
-```
-
 # 🏞️ 
 In the heart of Silicon Valley, the FinanceFlow team gathered around a large whiteboard, the air thick with anticipation and the aroma of strong coffee. Sarah Chen, their product manager, uncapped a marker with a determined click.
 "Alright team," she began, her voice steady, "we're about to revolutionize mobile banking, but we can't do everything at once. We need to prioritize."

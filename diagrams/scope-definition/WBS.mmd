@@ -1,0 +1,33 @@
+graph TD
+    A[Daily Household Chores]
+    A --> B[Kitchen Maintenance]
+    A --> C[Living Areas Upkeep]
+    A --> D[Bathroom Care]
+    A --> E[Laundry Management]
+    A --> F[Outdoor Tasks]
+
+    B --> B1[Wash Dishes]
+    B1 --> B2[Clean Countertops]
+    B2 --> B3[Take Out Trash]
+
+    C --> C1[Dust Furniture]
+    C1 --> C2[Vacuum Floors]
+    C2 --> C3[Tidy Up Clutter]
+
+    D --> D1[Clean Toilet]
+    D1 --> D2[Scrub Sink and Tub]
+    D2 --> D3[Mop Floor]
+
+    E --> E1[Sort Laundry]
+    E1 --> E2[Wash and Dry Clothes]
+    E2 --> E3[Fold and Put Away]
+
+    F --> F1[Water Plants]
+    F1 --> F2[Sweep Porch/Patio]
+    F2 --> F3[Check Mail]
+
+    classDef default fill:#BBC,stroke:#333,stroke-width:2px,color:black
+    classDef level1 fill:#5E60CE,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef level2 fill:#ddf,stroke-width:2px,color:#000;
+    class A level1;
+    class B,C,D,E,F level2;
